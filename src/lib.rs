@@ -1,6 +1,5 @@
 pub mod geometry;
-pub mod curves;
-pub mod brep;
+pub mod topology;
 
 
 fn main() {
